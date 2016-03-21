@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+*.pdf
+*.json
+*.xml
+*.name
+stackoverflow_spider.py
+*.iml
